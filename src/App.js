@@ -9,7 +9,7 @@ function App() {
             <div className="row">
                 <div className="col-xs-3 col-lg-2 text-center">
                     <img src="https://www.seekpng.com/png/detail/110-1100707_person-avatar-placeholder.png"
-                        alt="Person - Avatar Placeholder@seekpng.com" className="border border-5 rounded-circle img-fluid" style="width: 150px; height: 150px"/>
+                        alt="Person - Avatar Placeholder@seekpng.com" className="border border-5 rounded-circle img-fluid" style={{width: 150, height: 150}}/>
                 </div>
                 <div className="col text-center text-lg-start">
                     <h1>Joe Blow</h1>
