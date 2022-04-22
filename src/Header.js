@@ -19,10 +19,10 @@ function Header() {
                         <li className="list-inline-item my-2"><a href="#" className="fs-5 link-light text-decoration-none"><i
                                     className="bi bi-envelope pe-1"></i>
                                 <span className="text-center">E-mail</span></a></li>
-                        <li className="list-inline-item my-2"><a href="#" className="fs-5 link-light text-decoration-none"><i
+                        <li className="list-inline-item my-2"><a href="https://www.linkedin.com/in/emmari-mangawang-aa8090204/" className="fs-5 link-light text-decoration-none"><i
                                     className="bi bi-linkedin pe-1"></i>
                                 LinkedIn</a></li>
-                        <li className="list-inline-item my-2"><a href="#" className="fs-5 link-light text-decoration-none"><i
+                        <li className="list-inline-item my-2"><a href="https://github.com/EcMangawang" className="fs-5 link-light text-decoration-none"><i
                                     className="bi bi-github pe-1"></i>
                                 GitHub</a></li>
                     </ul>
